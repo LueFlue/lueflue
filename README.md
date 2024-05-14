@@ -35,7 +35,7 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%25234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python]([https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white](https://img.shields.io/badge/python-%2300000f.svg?style=for-the-badge&logo=python&logoColor=blue)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%25234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python]([https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white](https://img.shields.io/badge/python-%2300000f.svg?style=for-the-badge&logo=python&logoColor=blue))
 
 ###
 
