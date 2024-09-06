@@ -29,7 +29,7 @@
 
 ###
 
-<p align="center">From Denmark<br><br>- 🔭 I’m working on OpenColours<br>- 📚 I'm currently learning LUA<br>- ⚡ Drone Pilot</p>
+<p align="center">From Denmark<br><br>- 🔭 I’m working on nothing<br>- 📚 I'm currently learning your mom<br>- ⚡ Drone Pilot</p>
 
 ###
 
