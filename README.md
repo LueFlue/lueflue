@@ -1,7 +1,7 @@
 # 💫 About Me:
 From Denmark<br><br>🔭 I’m working on Flue Blocker & Ember RZ<br>🌱 I'm currently learning TypeScript<br>💬 Ask me about CyberSecurity, i can maybe answear!<br>⚡ Drone Pilot
 
-https://camo.githubusercontent.com/506dbd2a706f7bbf44e0af3232925b20eeaa0df0a5221f58ffb2a515d7c87163/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4c7565466c75652f636f756e742e7376673f
+[!(https://camo.githubusercontent.com/506dbd2a706f7bbf44e0af3232925b20eeaa0df0a5221f58ffb2a515d7c87163/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4c7565466c75652f636f756e742e7376673f)]
 
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/lueflue) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lueflue) 
